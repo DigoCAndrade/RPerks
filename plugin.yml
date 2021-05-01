@@ -1,0 +1,6 @@
+name: RPerks
+main: rodrigo.rperks.Main
+version: 1.0
+depend: [RCash, Vault]
+commands:
+  perks:
